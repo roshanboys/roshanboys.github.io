@@ -9,4 +9,4 @@ Same soul like you.
 
 ### Contact me
 
-[roshanboys@gmail.com](mailto:roshanboys@gmail.com)
+[admin@diveinwith.me](mailto:admin@diveinwith.me)
