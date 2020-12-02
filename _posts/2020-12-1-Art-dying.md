@@ -4,11 +4,7 @@ title: Die O Yogi Die!
 published: true
 ---
 
-<iframe id="instagram-embed-0" class="instagram-media instagram-media-rendered" style="background: white; max-width: 658px; width: calc(100% - 2px); border-radius: 3px; padding-bottom: 100%; border: 1px solid #dbdbdb; box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 126px; padding: 0px;" src="https://www.instagram.com/p/BTqbSy9hYXO/embed?utm_source=ig_embedembed/captioned/" scrolling="no" data-instgrm-payload-id="instagram-media-payload-0" height="250" frameborder="0"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span></iframe>
-
-One death we are already familiar with: in which the **body dies**, but our **ego and mind go on living**.
-
-This same ego finds a new womb. This same ego, troubled by new desires, again starts off on the journey. Even before leaving behind one body, it is already eager for another. This death is not the real death.
+One death we are already familiar with: in which the **body dies**, but our **ego and mind go on living**. This same ego finds a new womb. This same ego, troubled by new desires, again starts off on the journey. Even before leaving behind one body, it is already eager for another. This death is not the real death.
 
 I have heard, one man told Gorakh he was thinking of committing suicide. Gorakh said: "Go and commit it, but I tell you, afterwards you will be very surprised."
 
@@ -24,5 +20,6 @@ The body is left behind, but I am exactly as I was!'... And if you want to commi
 
 DIE THAT DEATH GORAKH DIED AND SAW.**
 - _Osho_
+<iframe id="instagram-embed-0" class="instagram-media instagram-media-rendered" style="background: white; max-width: 658px; width: calc(100% - 2px); border-radius: 3px; padding-bottom: 100%; border: 1px solid #dbdbdb; box-shadow: none; display: block; margin: 0px 0px 12px; min-height: 126px; max-height: 500px; min-width: 126px; padding: 100%;" src="https://www.instagram.com/p/BTqbSy9hYXO/embed?utm_source=ig_embedembed/captioned/" scrolling="no" data-instgrm-payload-id="instagram-media-payload-0" height="500" frameborder="0"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span></iframe>
 
 
