@@ -10,7 +10,7 @@ layout: default
       <h5><p style="color:grey">{{ post.date | date: "%B %e, %Y" }}</p></h5>
  
       <div class="entry">
-        {{ post.content | truncatewords:40 }}
+        {{ post.excerpt }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
