@@ -5,8 +5,8 @@ permalink: /about/
 published: true
 ---
 
-## The goal for creating this forum:
-To create a community of like-minded people seeking or are in the path of seeking the inner self. Everyone is invited to contribute with their thoughts and experiences.
+## Why this forum:
+To inspire and create a community of like-minded people seeking or are in the path of seeking the inner self. Everyone is invited to contribute with their thoughts and experiences.
 
 ## The pursuit of the unknown:
 All of us are a wanderer. For years and years, we are searching something outside which is located inside us.
