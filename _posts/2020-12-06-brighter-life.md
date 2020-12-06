@@ -4,7 +4,7 @@ title: Seeing a brighter side of life
 published: true
 ---
 
-The fundamental requirement is to make a habit of looking only on the bright side of an event and not the dark side for staying happy. If you want to fly higher, then you should try to become as lightweight as possible, you should drop all your burdens which you are carrying with you. And the biggest burden is sadness. No sadness filled mind can complete a big voyage.
+The fundamental requirement is to make a habit of looking only on the bright side of an event and not the dark side for staying happy. If you want to fly higher, then you should try to become as lightweight as possible, you should drop all your burdens which you are carrying with you. And the biggest burden is sadness. A sadness filled mind never can complete a big voyage.
 
 <iframe id="instagram-embed-0" class="instagram-media instagram-media-rendered" style="background: white; max-width: 350px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid #dbdbdb; box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 350px; padding: 0px;" src="https://www.instagram.com/p/Bxu94ZuH0s3/embed?utm_source=ig_embedembed/captioned/" scrolling="no" data-instgrm-payload-id="instagram-media-payload-0" height="380" frameborder="0"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span></iframe>
 
@@ -24,5 +24,4 @@ What else can happen? And in both the case there is no reason for staying sad. P
 
 I will end this article with a well-known story of Buddha. A stranger came near Buddha and spitted on him. Buddha was smiling, but his followers were raged with anger and were about to hit that stranger. Buddha stopped them and said that "he has not done anything wrong, he is just trying to say to me something, but the spoken language is inadequate. That's why he is sharing his emotions without any words."
 
-Many times in our lives, we share emotions like this. We touch and hold each other hands to display our love, hug and embrace others, and cry. It is all because our language is inadequate. Therefore, stay compassionate and grateful towards others and spread happiness. 
-
+Many times in our lives, we share emotions like this. We touch and hold each other hands to display our love, hug and embrace others, and cry. It is all because our language is inadequate. Therefore, stay compassionate and grateful towards others and spread happiness.
