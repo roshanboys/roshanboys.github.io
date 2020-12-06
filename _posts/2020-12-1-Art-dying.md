@@ -10,10 +10,14 @@ We are already familiar with one death: in which the **body dies**, but our **eg
 
 Gorakh approached a man who was about to commit suicide and said to him to proceed ahead with suicide but warned him that he would be shocked afterward. 
 That man was puzzled and said, "What are you saying? I awaited you so that you would stop me from committing suicide. I visited many sadhus before coming to you, and they all stopped me and mentioned that suicide is a great sin.'"
+
 Gorakh said: "You are mad.  No person can commit suicide. No one can even die because dying is impossible."
+
 I warn you again, try it, and you will be shocked. After committing suicide, you will discover that this body is left behind, but I am exactly as I was! 
 You will still be there. Your ego will be there. 
+
 You are just playing nonsense games by jumping from some mountain or by hanging yourself. If you want to commit real suicide, real death, then stay with me. I will teach you the art of great death, and then there will be no possibility of returning. 
+
 That's why Gorakh says that die as a yogi die and then this death is a sweet death. 
 - _Osho_
 
