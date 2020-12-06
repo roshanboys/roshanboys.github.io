@@ -1,6 +1,6 @@
 ---
 layout: post
-title: True death!
+title: True death
 published: true
 ---
 
