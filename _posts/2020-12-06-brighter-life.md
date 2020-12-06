@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: Seeing a brighter side of life
 published: true
