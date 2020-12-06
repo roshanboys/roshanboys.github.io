@@ -16,7 +16,7 @@ layout: default
   {%- endif -%}
 
   {%- if post.excerpt and post.excerpt != empty -%}
-    {%- assign post_excerpt = post.excerpt | markdownify | strip_html | normalize_whitespace | truncate: 160 | escape_once -%}
+    {%- assign post_excerpt = post.excerpt | markdownify | strip_html | normalize_whitespace | escape_once -%}
   {%- endif -%}
 
   {%- comment -%}### POST_AUTHOR ###{%- endcomment -%}
