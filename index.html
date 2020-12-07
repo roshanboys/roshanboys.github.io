@@ -9,13 +9,7 @@ layout: default
 
   {%- include reading_time.html content=post.content -%}
 
-<article class="post-preview clearfix h-entry">
-    <div class="post-preview-meta">
-      {{ post_author }}<a href="{{ post_url }}"><time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}"{% if post.last_modified_at %} data-toggle="tooltip" data-placement="top" title="Updated {{ post.last_modified_at | date: '%b %-d, %Y' }}"{% endif %}>{{ post.date | date: '%b %-d, %Y' }}</time></a>{% if post_modified %}{{ post_modified }}{% endif %}<!--
-      --> &middot; <!--
-      --><span data-toggle="tooltip" data-placement="top" title="{{ total_words }}">{{ reading_time }}</span>
-    </div>
-
+<h5><p style="color:grey">{{ post.date | date: "%B %e, %Y" }}    &middot {{ reading_time }} </p></h5>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       
 
