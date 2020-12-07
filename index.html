@@ -7,6 +7,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
+  {%- include reading_time.html content=post.content -%}
 
 <article class="post-preview clearfix h-entry">
     <div class="post-preview-meta">
